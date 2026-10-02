@@ -1,4 +1,4 @@
-# [ Waffed ]
+# Waffed
 ### Wafed is a mobile application that connects university students with housing providers, helping students find safe and suitable accommodation near their universities. It offers verified listings, smart search and filters, and in-app chat to make communication between students and housing providers easier and more secure.
 
 ---
@@ -17,20 +17,20 @@
 ---
 
 ##  Project Overview
-[###
+
 
 Wafed is a UI/UX design project for a mobile app that helps university students find safe, suitable, and verified housing near their universities. It addresses common problems such as unreliable listings, lack of information, and difficulty comparing suitable housing options. The project will be presented as a mobile app UI/UX prototype, showcasing the main user journey, key features, and overall experience from searching for housing to communicating with housing providers.
-]
+
 
 ---
 
 ## Project Objectives
-- [Help students find suitable and verified accommodation near their universities.]  
-- [Connect students directly with trusted housing providers]  
-- [Make the housing search process easier, faster, and safer]  
-- [Provide verified housing listings with clear and accurate information.]  
-- [Enable direct and secure communication through in-app chat.]  
-- [- Help students compare available housing options based on their needs and budget.]  
+- Help students find suitable and verified accommodation near their universities.  
+- Connect students directly with trusted housing providers  
+- Make the housing search process easier, faster, and safer  
+- Provide verified housing listings with clear and accurate information.  
+- Enable direct and secure communication through in-app chat.  
+-  Help students compare available housing options based on their needs and budget.  
 
 ---
 
