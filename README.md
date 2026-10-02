@@ -35,24 +35,24 @@ Wafed is a UI/UX design project for a mobile app that helps university students 
 ---
 
 ##  Project Scope
-- [Scope item 1]  
-- [Scope item 2]  
-- [Scope item 3]  
-- [Scope item 4]  
-- [Scope item 5]  
+- User Research & Personas: Identifying the core pain points and needs of both university students living away from home and housing providers.
+- Core User Flows: Designing the complete end-to-end user journeys for students (from university-first search to in-app chat) and landlords (from property listing to availability management).  
+- Verification System UI/UX: Designing clear, multi-level verification workflows for students, owners, and properties to establish trust. 
+- Prototypes & Design System: Creating low-fidelity wireframes, high-fidelity interactive prototypes, and a consistent UI design system tailored for mobile. 
+- Out-of-Scope Roadmap: Excluding live backend development, electronic payment gateways, and advanced roommate-matching algorithms from this current design phase, reserving them for future updates.  
 
->  **Final Deliverable:** [Describe the final output of the project]
+>  **Final Deliverable:** A complete UI/UX design package including user research, workflows, verification interfaces, core features (university-first search, smart filters, and chat), and a high-fidelity interactive mobile app prototype.
 
 ---
 
 ## Project Plan (5 Weeks)
 
-###  Week 1 — [Title]
-- [Task]  
+###  Week 1 — Research & UX Strategy
+- Conducting user research, defining target personas, and outlining core user journeys for students and property owners  
 
 
-### Week 2 — [Title]
-- [Task]  
+### Week 2 — Information Architecture & Wireframing
+- Designing app information architecture, user flows, and low-fidelity wireframes for the main screens. 
 
 
 ### Week 3 — [Title]
