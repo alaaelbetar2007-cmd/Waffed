@@ -1,23 +1,23 @@
 # [ Waffed ]
-### _[**Wafed** is a mobile application that connects university students with housing providers, helping students find safe and suitable accommodation near their universities. It offers verified listings, smart search and filters, and in-app chat to make communication between students and housing providers easier and more secure.]_
+### Wafed is a mobile application that connects university students with housing providers, helping students find safe and suitable accommodation near their universities. It offers verified listings, smart search and filters, and in-app chat to make communication between students and housing providers easier and more secure.
 
 ---
 
 ##  Team Members
-- **[Alaa Mohmed Abd-Elnaser]**  
-- **[Omar Mohamed Farouk]**  
-- **[Rawda Hussein El Sayed]**  
-- **[Shahd Mohamed Mostafa]**  
+- **Alaa Mohmed Abd-Elnaser**  
+- **Omar Mohamed Farouk**  
+- **Rawda Hussein El Sayed**  
+- **Shahd Mohamed Mostafa**  
 
 ---
 
 ##  Instructor
-**[DR\Suzan]**
+**DR\Suzan**
 
 ---
 
 ##  Project Overview
-[### 
+[###
 
 Wafed is a UI/UX design project for a mobile app that helps university students find safe, suitable, and verified housing near their universities. It addresses common problems such as unreliable listings, lack of information, and difficulty comparing suitable housing options. The project will be presented as a mobile app UI/UX prototype, showcasing the main user journey, key features, and overall experience from searching for housing to communicating with housing providers.
 ]
@@ -55,13 +55,13 @@ Wafed is a UI/UX design project for a mobile app that helps university students 
 - Designing app information architecture, user flows, and low-fidelity wireframes for the main screens. 
 
 
-### Week 3 — [Title]
-- [Task]  
+### Week 3 — UI Design System & Core Screens
+- Creating the design system (color palette, typography, components) and designing high-fidelity screens for search, filters, and property details. 
 
 
-### Week 4 — [Title]
-- [Task]  
+### Week 4 — Advanced Features & Verification UI
+- esigning specialized screens for the multi-level verification system, distance/transportation calculator, and in-app chat.
 
 
-### Week 5 — [Title]
-- [Task]  
+### Week 5 — Prototyping, Testing & Final Polish
+- Building the high-fidelity interactive prototype, conducting usability testing, refining UI details, and preparing the final presentation. 
