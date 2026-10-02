@@ -12,7 +12,7 @@
 ---
 
 ##  Instructor
-**DR\Suzan**
+**Dr. Suzan Farahat**
 
 ---
 
